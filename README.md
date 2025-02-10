@@ -1,6 +1,4 @@
-Voici une version révisée de ton README avec des blagues, des références à Fox (le renard), et des espaces prévus pour des images de renards ou de wifi. J'ai aussi remplacé les références à ton pote par ton nom et ton dépôt GitHub. J'espère que ça te plaît !
 
----
 
 [![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)](http://www.python.org/download/)
 [![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
@@ -50,7 +48,7 @@ Ce petit renard est là pour pirater n'importe quel mot de passe Wi-Fi à ta pla
 
 ```bash
 1) sudo apt-get update && apt-get install git
-2) sudo git clone https://github.com/FoxTheKanif/Wi-Fox
+2) sudo git clone https://github.com/Tiger-Foxx/Wi-Fox.git
 3) cd Wi-Fox/
 4) sudo python3 Wi-Fox.py
 ```
@@ -69,24 +67,21 @@ Hey, si tu aimes mon outil, n'oublie pas de me remercier en m'offrant un café (
 ![](Snapshots/0.png)  
 *"Regarde-moi ce renard en action !"*
 
-![](Snapshots/1.png)  
+![](Snapshots/3.png)  
 *"Un Wi-Fi ? Cracké en moins de temps qu'il ne faut pour dire 'Ouah, quel renard !'"*
 
-![](Snapshots/2.png)  
+![](Snapshots/6.png)  
 *"Le renard a frappé encore une fois !"*
 
 ---
 
 # Feel Free To Contact Me.
 
-### Si tu aimes mon travail, offre-moi une carotte (ou un café) :  
-**PayPal / BuyMeACoffee : fox.the.kanif@example.com**
-
-### - [WhatsApp chat](https://wa.me/+1234567890)  
+### - [WhatsApp chat](https://wa.me/+237658866639)  
 *"Je réponds plus vite qu'un renard ne court !"*
 
-### - [Instagram](https://www.instagram.com/fox_the_kanif/)  
-*"Suis-moi pour plus de blagues de renard et de piratage malin !"*
+### - [Instagram](https://www.instagram.com/i_am_the_fox_coder/)  
+*"Suis-moi !"*
 
 ---
 
@@ -112,6 +107,3 @@ Si cet outil de cybersécurité t'a été utile, n'hésite pas à me remercier e
 ### Happy Hacking ! 🦊  
 **"Privacy & Security ? No Such Things Exist in the Digital World. We Can Fox Everything!"**
 
----
-
-N'hésite pas à ajouter des images de renards ou de Wi-Fi dans les sections prévues pour rendre ton README encore plus amusant et personnalisé ! 🦊📶
